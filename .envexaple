@@ -1,0 +1,2 @@
+PORT=[aqui agregar el puerto]
+MONGO_URI="mongodb+srv://[agregar usuario]:[agregar contraseña]>[agregar Cluster].1oimau2.mongodb.net/[agregar nombre de la db]?appName=[agregar Cluster]
